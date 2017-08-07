@@ -21,7 +21,7 @@ Podprojekt w którym zawarte s¹ interfejsy do produktów i koszyka + po³aczenia z 
 Zawiera wszystkie widoki, modu³y i kontrolery, injection dla Ninjecta.<br /><br />
 
 ###### Kontrolery:<br />
-- Admin<br />
+- Admin<br /> - Link : localhost/admin/index
 - Koszyk<br />
 - Nawigacja<br />
 - Produkty<br />
