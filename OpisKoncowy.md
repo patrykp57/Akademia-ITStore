@@ -34,5 +34,7 @@ Skrypty JS<br /><br />
 Niestety nie zd¹¿y³em zrobiæ, pierwotnie projekt mia³ zawieraæ unit testy w których do pomocy chcia³em u¿yæ MOQ'a<br />
 
 
+###### FILMIK ! AAA WOLNY INTERNET - WRZUCAM BÊDZIE ZA 20 MIN !
+:(
 
  
